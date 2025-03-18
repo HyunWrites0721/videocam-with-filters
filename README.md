@@ -5,6 +5,7 @@ Controls(quitting program / recording)
 - By pressing 'ESC' on your keyboard, program finishes.
 - By pressing 'Space' on your keyboard, the program starts recording
 - By pressing 'Space' one more time, the program stops recording, gives you a video file named 'videowithfilters.mp4'
+- Saved video will be in MP4 format.
 
 Controls(filters):
 
@@ -20,7 +21,13 @@ Controls(filters):
   4. negative color image filter: original input modified to negative color image
     - You can use it by pressing '4' on your keyboard.
 
-Saved video will be in MP4 format.
+
+
+User Interfaces:
+- main frame that displays current input and filter.
+- in record mode, you can see a red dot, which means the program is recording.
+- in record mode, you can see a message about filter you are using now. 
+
 
 Thank you.
 Enjoy! :)
